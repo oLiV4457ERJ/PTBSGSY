@@ -1149,7 +1149,6 @@ cc_library_static {
                 "src/core/NEON/kernels/arm_conv/depthwise/kernels/sve_fp32_nhwc_3x3_s2_output2x2_mla_depthfirst/generic_direct.cpp",
                 "src/core/NEON/kernels/arm_conv/depthwise/kernels/sve_fp32_nhwc_3x3_s2_output2x2_mla_depthfirst/generic_indirect.cpp",
                 "src/core/NEON/kernels/arm_conv/depthwise/kernels/sve_fp32_nhwc_5x5_s1_output2x2_mla_depthfirst/generic_direct.cpp",
-                "src/core/NEON/kernels/arm_conv/depthwise/kernels/sve_fp32_nhwc_5x5_s1_output2x2_mla_depthfirst/generic_indirect.cpp",
                 "src/core/NEON/kernels/arm_conv/depthwise/kernels/sve_fp32_nhwc_generic_output9_mla_depthfirst/generic.cpp",
                 "src/core/NEON/kernels/arm_conv/depthwise/kernels/sve_fp32_packed_to_nhwc_3x3_s2_with_multiplier_output3x3_mla_depthfirst/generic.cpp",
                 "src/core/NEON/kernels/arm_conv/depthwise/kernels/sve_fp32_packed_to_nhwc_5x5_s1_with_multiplier_output2x4_mla_depthfirst/generic.cpp",
